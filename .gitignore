@@ -1,0 +1,17 @@
+__pycache__/
+recordings/
+
+.venv/
+venv/
+ENV/
+env/
+.env
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+*.tmp
+*.temp
